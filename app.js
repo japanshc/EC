@@ -5,7 +5,7 @@ const products = [
     {
       id: 1,
       title: "Belle",
-      price: 119,
+      price: 1190,
       colors: [
         {
           code: "#ffe273",
